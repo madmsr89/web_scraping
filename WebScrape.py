@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-text= "knee surgeons chennai"
+text= "cardiologists"
 url = 'https://google.com/search?q=' + text
   
 # Fetch the URL data using requests.get(url),

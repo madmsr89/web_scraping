@@ -4,4 +4,4 @@ ADD WebScrape.py .
 
 RUN pip install requests BeautifulSoup4
 
-CMD ["python", "./WebSrape.py"]
+CMD ["python", "./WebScrape.py"]
